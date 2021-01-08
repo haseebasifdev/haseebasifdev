@@ -23,7 +23,7 @@ You can also find me here:
 
 <img align="left" alt="Vue" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Vue.svg" />
 
-<img align="left" alt="Vuex" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Vuex.svg" />
+<img align="left" alt="Vuex" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Vuex.png" />
 
 <img align="left" alt="PHP" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/PHP.svg" />
 
