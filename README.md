@@ -1,5 +1,5 @@
 ### Hi there 👋
-Haseeb here! I am a web developer currently working on Laravel and Vue.js. Also working on my skils in ML, DL and Computer Vision to give a solution to real time problems. :) 
+Haseeb here! I am a web developer currently working on Laravel, React.js, Vue.js, and Android. Also working on my skils in ML, DL and Computer Vision to give a solution to real time problems. :) 
 <br />
 <br />
 
