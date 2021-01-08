@@ -4,12 +4,19 @@ Haseeb here! I am a web developer currently working on Laravel and Vue.js. Also 
 <!--
 **haseebasifdev/haseebasifdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br />
+<br />
+
+---
 You can also find me here:
 
 [<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/twitter.svg"/>](https://www.twitter.com/haseebasif01)
 [<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/linkedin.svg"/>](https://www.linkedin.com/in/haseebasif01) 
 [<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/facebook.svg"/>](https://www.facebook.com/haseebasif01/)
+<br />
+<br />
 
+---
 ### Skills:
 <img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/JavaScript.svg" />
 
