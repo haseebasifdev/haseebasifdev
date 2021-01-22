@@ -5,8 +5,9 @@ Haseeb here! I am a web developer currently working on Laravel, React.js, Vue.js
 <br />
 
 ---
-# portfolio
-#### [Haseeb Asif](https://haseeb01.herokuapp.com/)
+
+# Portfolio
+### [Haseeb Asif](https://haseeb01.herokuapp.com/)
 
 <br />
 <br />
