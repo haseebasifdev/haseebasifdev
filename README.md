@@ -1,84 +1,46 @@
-### Hi there 👋
-Haseeb here! I am a web developer currently working on Laravel, React.js, Vue.js, and Android. Also working on my skills in ML, DL and Computer Vision to give a solution to real time problems. :) 
+# Software Engineer
 
-<br />
-<br />
+Hi there 👋
+Haseeb Here! I'm a Software Engineer with expertise in a wide range of technologies and programming languages. I'm passionate about developing efficient and scalable software solutions. Here's a brief overview of my skills and areas of expertise:
 
----
+## Skills and Technologies
 
-# Portfolio
-### [Haseeb Asif](https://haseeb01.herokuapp.com/)
+### Programming Languages:
+- Java
+- JavaScript
+- TypeScript
+- C++
+- Python
 
-<br />
-<br />
+### Web Development:
+- Spring Framework
+- Angular
+- React
+- Redux
+- Node.js
+- Express.js
 
----
+### Database Management:
+- NoSQL (MongoDB, Cassandra)
+- DB2
+- MariaDB
 
-### You can also find me here:
-[<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/twitter.svg"/>](https://www.twitter.com/haseebasif01)
-[<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/linkedin.svg"/>](https://www.linkedin.com/in/haseebasif01) 
-[<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/SocialMedia/facebook.svg"/>](https://www.facebook.com/haseebasif01/)
-<br />
-<br />
+### Version Control:
+- Git
+- Mercurial
 
----
-### Skills:
-<img align="left" alt="javaScript" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/JavaScript.svg" />
+## About Me
 
-<img align="left" alt="React" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/React.svg" />
+I have a strong foundation in software engineering and a deep understanding of both front-end and back-end development. My experience with Java, Spring, and various JavaScript frameworks (Angular, React, Redux) enables me to create robust and dynamic web applications. I'm also well-versed in server-side development using Spring, Node.js, and Express.js.
 
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/MongoDB.svg" />
+In addition, my proficiency in C++ and Python allows me to tackle various programming challenges, from low-level system development to data analysis and machine learning. I have a knowledge of database management, working with NoSQL databases and relational databases like DB2 and MariaDB.
 
-<img align="left" alt="Node.js" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Node.js.svg" />
+Version control is a crucial part of my workflow, and I'm skilled in using Git and Mercurial to manage code repositories effectively.
 
-<img align="left" alt="Express" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Express.svg" />
+Feel free to reach out if you have any questions or are interested in collaborating on a project. I'm always eager to explore new opportunities and contribute my skills to innovative software solutions.
 
-<img align="left" alt="Redux" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Redux.svg" />
+## Contact
 
-<img align="left" alt="Vue" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Vue.svg" />
-
-<img align="left" alt="Vuex" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Vuex.png" />
-
-<img align="left" alt="PHP" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/PHP.svg" />
-
-<img align="left" alt="Laravel" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Laravel.svg" />
-
-<img align="left" alt="MYSQL" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/MySQL.svg" />
-
-<img align="left" alt="HTML5" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/HTML5.svg" />
-
-<img align="left" alt="CSS3" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/CSS3.svg" />
-
-<img align="left" alt="Bootstrap" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/bootstrap.svg" />
-
-<img align="left" alt="TensorFlow" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/TensorFlow.svg" />
-
-<img align="left" alt="Android" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Languages/Android.svg" />
-
-
-<br />
-<br />
-
----
-### Tools:
-<img align="left" alt="Github" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/GitHub.svg" />
-
-<img align="left" alt="Git" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/Git.svg" />
-
-<img align="left" alt="Postman" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/Postman.svg" />
-
-<img align="left" alt="npm" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/npm.svg" />
-
-<img align="left" alt="Vs-Code" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/VS-Code.svg" />
-
-
-<img align="left" alt="Xampp" width="30px" src="https://github.com/haseebasifdev/My_Language_Tools_Images/blob/main/Tools/Xampp.svg" />
-
-
-
-
-
-
-
-
-
+- Email: [your.email@example.com](mailto:haseebasif2626@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/haseebasif01)
+- GitHub: [Your GitHub Profile](https://github.com/your-username)
