@@ -1,12 +1,12 @@
 # Software Engineer
 
-Hi there 👋
-Haseeb Here! I'm a Software Engineer with expertise in a wide range of technologies and programming languages. I'm passionate about developing efficient and scalable software solutions. Here's a brief overview of my skills and areas of expertise:
+## Hi there 👋 Haseeb Here!
+I'm a Software Engineer with expertise in a wide range of technologies and programming languages. Here's a brief overview of my skills and areas of expertise:
 
 ## Skills and Technologies
 
 ### Programming Languages:
-- Java - JavaScript - TypeScript - C++ - Python
+- Java - JavaScript - TypeScript - Python
 
 ### Web Development:
 - Spring Framework - Angular - React - Redux - Node.js - Express.js
