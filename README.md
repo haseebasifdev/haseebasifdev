@@ -41,6 +41,5 @@ Feel free to reach out if you have any questions or are interested in collaborat
 
 ## Contact
 
-- Email: [your.email@example.com](mailto:haseebasif2626@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/haseebasif01)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: [Haseeb Asif](mailto:haseebasif2626@gmail.com)
+- LinkedIn: [Haseeb Asif](https://www.linkedin.com/in/haseebasif01)
